@@ -2,7 +2,7 @@
 
 This program gives the user control of a 3D tank model.
 
-![Display example](/images/3d_tank.gif)
+![Display example](images/3d_tank.gif)
 
 The program is written in C++ and developed using the OpenGL API (Core Profile). GLFW (for creating an OpenGL context) and GLM (for handling the linear algebra) libraries are used, as well as the GLAD loader (for finding OpenGL functions in memory).
 
