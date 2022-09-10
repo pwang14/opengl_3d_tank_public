@@ -1,5 +1,7 @@
 # 3D graphics display
 
+### Program developed in September 2021
+
 This program gives the user control of a 3D tank model.
 
 ![Display example](images/3d_tank.gif)
